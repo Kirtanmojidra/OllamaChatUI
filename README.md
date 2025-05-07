@@ -19,7 +19,7 @@ A simple chat UI built using **Ollama** for interactive and conversational AI ex
 
 Before you begin, make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (Version 14 or above)
+- [Node.js](https://nodejs.org/) (Version 20 or above)
 - [npm](https://npmjs.com) (Package manager for Node.js)
 
 ### Steps to Install
