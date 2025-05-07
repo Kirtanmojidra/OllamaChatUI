@@ -42,6 +42,15 @@ Before you begin, make sure you have the following installed:
    npm run dev
    ```
    Running on Network and localhost check Terminal Output For More Detail
+   VITE v6.3.3  ready in 339 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.56.1:5173/
+  ➜  Network: http://192.168.56.2:5173/
+  ➜  Network: http://192.168.64.1:5173/
+  ➜  Network: http://192.168.89.1:5173/
+  ➜  Network: http://192.168.18.238:5173/
+  ➜  press h + enter to show help
 
 ## 🤝 Contributing
 
