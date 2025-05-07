@@ -11,7 +11,7 @@ A simple chat UI built using **Ollama** for interactive and conversational AI ex
 
 ## 📸 Demo
 
-![Chat UI Demo](assests/image1.png)  
+![Chat UI Demo](assets/image1.png)  
 
 ## 🛠️ Installation
 
@@ -29,4 +29,17 @@ Before you begin, make sure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/ollama-chat-ui.git
    cd ollama-chat-ui
+   ```
+1. Install dependencies:
+  ```bash
+   npm install
   ```
+1. Run the project:
+   ```bash
+   npm run dev
+   ```
+
+
+## 🤝 Contributing
+
+We love contributions from the community! Whether it's fixing bugs, improving the documentation, or adding new features,
