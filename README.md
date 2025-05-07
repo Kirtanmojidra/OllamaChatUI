@@ -41,7 +41,7 @@ Before you begin, make sure you have the following installed:
    ```bash
    npm run dev
    ```
-   
+   Running on Network and localhost check Terminal Output For More Detail
 
 ## 🤝 Contributing
 
