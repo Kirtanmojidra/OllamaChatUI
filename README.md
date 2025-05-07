@@ -30,15 +30,18 @@ Before you begin, make sure you have the following installed:
    git clone https://github.com/yourusername/ollama-chat-ui.git
    cd ollama-chat-ui
    ```
+   
 1. Install dependencies:
-  ```bash
+
+   ```bash
    npm install
-  ```
-1. Run the project:
+   ```
+1. Install dependencies:
+
    ```bash
    npm run dev
    ```
-
+   
 
 ## 🤝 Contributing
 
