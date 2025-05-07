@@ -37,7 +37,7 @@ Before you begin, make sure you have the following installed:
    npm install
    ```
 1. Install dependencies:
-
+   make sure Ollama is runing or if not running then run **ollama serve**
    ```bash
    npm run dev
    ```
