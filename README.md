@@ -32,8 +32,8 @@ Before you begin, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ollama-chat-ui.git
-   cd ollama-chat-ui
+   git clone https://github.com/Kirtanmojidra/OllamaChatUI.git
+   cd OllamaChatUI
    ```
    
 1. Install dependencies:
